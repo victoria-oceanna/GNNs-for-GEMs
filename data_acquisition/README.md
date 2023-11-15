@@ -1,1 +1,1 @@
-
+For interacting with ModelSEED database. Functions exist for generating models and downloading information from them (stoichiometric matrices, metabolite names, and metabolite formulas). The Jupyter notebook provides an example of running the acquisition functions in parallel for an _E. coli_ dataset
