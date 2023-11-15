@@ -1,1 +1,1 @@
-Code for calculating various centrality measures (closeness, betweeness, degree, eigenvector) for all nodes in all networks. These measures are incorperated as node features during dataset generation.
+Code for calculating various centrality measures (closeness, betweeness, degree, eigenvector) for all nodes in all networks. These measures are incorperated as node features during dataset generation. An example python script for a Slurm batch job, as well as the Slurm script itself, are also included here.
