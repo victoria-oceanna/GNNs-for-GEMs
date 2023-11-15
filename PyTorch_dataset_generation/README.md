@@ -1,1 +1,1 @@
-
+Used to create a custome dataset in PyTorch from stoichiometric matrices obtained from GEMs. An example is shown here for Ampicillin resistance, where resistant strains belong to class 1 and susceptible strains belong to class 0.
