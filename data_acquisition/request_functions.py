@@ -1,5 +1,4 @@
 import mackinac as mk
-import pandas as pd
 import numpy as np
 import cobra
 import time
